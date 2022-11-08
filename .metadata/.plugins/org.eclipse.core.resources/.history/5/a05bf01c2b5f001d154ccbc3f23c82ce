@@ -1,0 +1,5 @@
+package exercise.order.repository;
+
+public class CustomerRepository {
+
+}
