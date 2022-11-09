@@ -1,0 +1,4 @@
+Spring 개념
+1. DI
+
+2. AOP (관점 지향 프로그램, Aspect Oriented Program) 
